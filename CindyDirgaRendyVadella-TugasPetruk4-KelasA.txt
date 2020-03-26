@@ -14,6 +14,7 @@ void hasil(int*);
 int main()
 { 
 cout<<endl;
+cout<<"  KELAS A " <<endl;
 cout<<"  Nama : Cindy (1957051002)	" <<endl;
 cout<<"  Nama : Dirga Wira Aditya (1957051011)	" <<endl;	
 cout<<"  Nama : Rendy Fitra Adi Pratama (1917051041)	" <<endl;
